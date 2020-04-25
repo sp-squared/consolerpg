@@ -14,4 +14,3 @@ private:
 	int sellValue;
 	int buyValue;
 };
-

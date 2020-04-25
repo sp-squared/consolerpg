@@ -41,5 +41,3 @@ private:
 	std::string fileName;
 };
 #endif
-
-

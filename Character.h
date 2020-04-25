@@ -58,6 +58,4 @@ private:
 	int statPoints;
 	int skillPoints;
 
-
 };
-

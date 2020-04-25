@@ -30,6 +30,7 @@ Character::Character()
 
 Character::~Character()
 {
+
 }
 
 
@@ -114,7 +115,6 @@ std::string Character::getAsString() const
 		+ std::to_string(stamina) + " "
 		+ std::to_string(statPoints) + " "
 		+ std::to_string(skillPoints) + " ";
-
 
 
 }

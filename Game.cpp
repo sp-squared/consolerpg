@@ -24,8 +24,8 @@ void Game::initGame()
 
 void Game::mainMenu()
 {
+	// Menu Options
 	std::cout << "MAIN MENU" << std::endl;
-
 	std::cout << "0: Quit" << std::endl;
 	std::cout << "1: Travel" << std::endl;
 	std::cout << "2: Shop" << std::endl;

@@ -22,7 +22,4 @@ private:
 	Item** itemArr;
 	void expand();
 	void initialize(const int from);
-
-
 };
-
